@@ -1,0 +1,61 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+  border-radius: 10px;
+}
+
+.container{
+  background: white;
+  width: 70%;
+  margin: 40px auto;
+  padding: 40px;
+  border-radius: 10px;
+}
+
+h1 {
+  font-size: 28px;
+  padding: 20px;
+  text-align: center;
+}
+
+.coment {
+  font-size: 12px;
+  padding: 10px;
+  text-align: right;
+}
+
+h2 {
+  font-size: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+dl {
+  line-height: 30px;
+  padding: 10px;
+}
+
+.waffle-img {
+  max-width: 100%;
+  text-align: center;
+  
+}
+
+body {
+  background: #eaeaea;
+  font-family: 'Roboto', sans-serif;
+}
+
+ul,
+p {
+  font-size: 16px;
+}
+
+.coment-final {
+  color: red;
+  font-size: 12px;
+  padding:20px;
+  text-align: left;
+}
